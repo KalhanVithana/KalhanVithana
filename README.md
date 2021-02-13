@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Kalhan vithana
+### Hi 👋,Im Kalhan vithana
 #### UI/UX Designer | FullStack  Developer
 
 Skills:  REACT /NODE JS/ JS / HTML / CSS
