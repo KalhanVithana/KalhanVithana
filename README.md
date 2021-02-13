@@ -3,11 +3,9 @@
 
 Skills:  REACT /NODE JS/ JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
 
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.sql`,.`mongodb`
+- 💅 Designer:
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **design**, **branding**, **React**, **development**, **design thinking**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KalhanVithana)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Kalhan vithana/)  
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KalhanVithana)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Kalhan vithana/)  
